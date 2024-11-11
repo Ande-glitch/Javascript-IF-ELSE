@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 5%;
+}
+button {
+    height: 20px;
+}
